@@ -1,0 +1,15 @@
+{
+  "module": "Modul Gonanku",
+  "version": "2.0",
+  "preset": "koran-vintage",
+  "title": "Lagi Malas? Satu Soal Dulu.",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1350,
+  "duration_seconds": 45.0,
+  "audio": false,
+  "subtitle_timing": "scene",
+  "subtitle_kind": "narration",
+  "sha256": "6c3c286c83607ca51fb77e68bbeeb70794b87ade72e1af5d90d3b3869d008096"
+}

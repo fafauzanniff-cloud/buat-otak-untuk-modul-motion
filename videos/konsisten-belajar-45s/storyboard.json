@@ -1,0 +1,24 @@
+{
+  "title": "Lagi Malas? Satu Soal Dulu.",
+  "format": "portrait",
+  "goal": "iklan",
+  "preset": "koran-vintage",
+  "brand": {"name": "GONANKU", "background": "#d8d1bd", "accent": "#8b3429", "text": "#29271f"},
+  "audience": "Pelajar dan mahasiswa",
+  "scenes": [
+    {"duration": 5, "layout": "split", "visual": "book", "label": "CERITA ILUSTRASI", "headline": "Nunggu semangat dulu?", "body": "Raka membuka buku. Lalu menutupnya lagi.", "narration": "Raka sudah duduk di depan buku. Tapi rasanya malas banget."},
+    {"duration": 5, "layout": "quote", "visual": "quote", "label": "MALAM BERIKUTNYA", "headline": "Kalimat yang sama.", "body": "Besok aja, deh. Kalau lagi niat.", "narration": "Besok aja, deh, pikirnya. Kalimat yang sama muncul lagi malam berikutnya."},
+    {"duration": 6, "layout": "hero", "visual": "gears", "label": "TARGET TERLALU BESAR", "headline": "Langsung dua bab?", "body": "Baru lihat targetnya, sudah ingin menyerah.", "narration": "Ternyata, setiap mulai, dia menuntut dua bab selesai. Baru lihat targetnya, sudah ingin menyerah."},
+    {"duration": 6, "layout": "statement", "visual": "book", "label": "TITIK BALIK", "headline": "GANTI CARA MULAINYA.", "body": "Malam itu, Raka menawar targetnya.", "narration": "Malam itu, Raka menawar targetnya. Bukan dua bab. Cukup satu halaman, lalu coba satu soal."},
+    {"duration": 6, "layout": "split", "visual": "lantern", "label": "SATU LANGKAH KECIL", "headline": "Belum semangat. Tetap mulai.", "body": "Satu halaman. Satu soal. Pelan-pelan.", "narration": "Dia masih malas. Tapi kali ini bukunya tetap terbuka. Satu soal pun berhasil dia coba."},
+    {"duration": 6, "layout": "quote", "visual": "quote", "label": "BESOK, COBA LAGI", "headline": "Boleh pelan.", "body": "Kalau benar-benar lelah, istirahat dulu.", "narration": "Besoknya, dia mengulang langkah kecil itu. Saat benar-benar lelah, dia memilih istirahat."},
+    {"duration": 6, "layout": "recipe", "visual": "recipe", "label": "RESEP MALAM INI", "headline": "Coba yang realistis.", "body": "Sesuaikan dengan keadaanmu hari ini.", "items": ["Jauhkan ponsel sebentar", "Buka satu halaman", "Coba satu soal"], "narration": "Malam ini, coba jauhkan ponsel sebentar. Buka satu halaman. Lalu kerjakan satu soal yang kamu pilih."},
+    {"duration": 5, "layout": "statement", "visual": "book", "label": "SATU PELAJARAN HARI INI", "headline": "SATU SOAL. MULAI DULU.", "body": "Nggak harus menaklukkan semuanya malam ini.", "narration": "Kamu nggak harus menaklukkan semuanya malam ini. Coba satu soal dulu."}
+  ],
+  "post": {
+    "caption": "Cerita ilustrasi tentang Raka, yang mencoba tetap belajar meski sedang malas. Nggak harus menaklukkan semuanya malam ini. Pilih satu soal yang bisa kamu coba; kalau benar-benar lelah, beri diri waktu istirahat. Draft motion ini belum memiliki audio.",
+    "hashtags": ["#Belajar", "#CeritaEdukasi", "#Pelajar", "#Mahasiswa", "#Gonanku"]
+  },
+  "sources": ["Arah visual mengikuti referensi pengguna: Part 12-17 — Konsisten, Bukan Kaku. Cerita dan naskah dibuat baru."],
+  "assumptions": ["Raka adalah tokoh fiktif; seluruh cerita merupakan ilustrasi, bukan testimoni atau temuan riset.", "Durasi visual tepat 45 detik. Durasi narasi belum diukur karena draft ini tanpa audio.", "Penyesuaian durasi scene mungkin diperlukan saat rekaman atau TTS ditambahkan.", "Tidak menggunakan audio dari video referensi dan tidak memanggil API berbayar."]
+}
