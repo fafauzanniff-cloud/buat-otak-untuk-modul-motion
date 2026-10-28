@@ -1,0 +1,122 @@
+{
+  "title": "Lagi Malas? Satu Soal Dulu.",
+  "format": "portrait",
+  "goal": "iklan",
+  "preset": "aurora-story",
+  "brand": {
+    "name": "GONANKU",
+    "background": "#03151c",
+    "accent": "#46edb5",
+    "text": "#e5f8ef"
+  },
+  "audience": "Pelajar dan mahasiswa",
+  "scenes": [
+    {
+      "duration": 5,
+      "layout": "hero",
+      "visual": "gauge",
+      "label": "CERITA ILUSTRASI",
+      "headline": "Nunggu semangat dulu?",
+      "body": "Raka membuka buku. Lalu menutupnya lagi.",
+      "narration": "Raka sudah duduk di depan buku. Tapi rasanya malas banget.",
+      "show_label": false
+    },
+    {
+      "duration": 5,
+      "layout": "statement",
+      "visual": "moon",
+      "label": "MALAM BERIKUTNYA",
+      "headline": "Kalimat yang sama.",
+      "body": "Besok aja, deh. Kalau lagi niat.",
+      "narration": "Besok aja, deh, pikirnya. Kalimat yang sama muncul lagi malam berikutnya.",
+      "show_label": false
+    },
+    {
+      "duration": 6,
+      "layout": "hero",
+      "visual": "gauge",
+      "label": "TARGET TERLALU BESAR",
+      "headline": "Langsung dua bab?",
+      "body": "Baru lihat targetnya, sudah ingin menyerah.",
+      "narration": "Ternyata, setiap mulai, dia menuntut dua bab selesai. Baru lihat targetnya, sudah ingin menyerah.",
+      "show_label": false
+    },
+    {
+      "duration": 6,
+      "layout": "statement",
+      "visual": "shield",
+      "label": "TITIK BALIK",
+      "headline": "Ganti cara mulainya.",
+      "body": "Satu halaman. Satu soal.",
+      "narration": "Malam itu, Raka menawar targetnya. Bukan dua bab. Cukup satu halaman, lalu coba satu soal.",
+      "show_label": false,
+      "body_emphasis": true
+    },
+    {
+      "duration": 6,
+      "layout": "hero",
+      "visual": "shield",
+      "label": "SATU LANGKAH KECIL",
+      "headline": "Belum semangat.",
+      "body": "Tetap mulai. Pelan-pelan.",
+      "narration": "Dia masih malas. Tapi kali ini bukunya tetap terbuka. Satu soal pun berhasil dia coba.",
+      "show_label": false
+    },
+    {
+      "duration": 6,
+      "layout": "hero",
+      "visual": "moon",
+      "label": "BESOK, COBA LAGI",
+      "headline": "Boleh pelan.",
+      "body": "Kalau benar-benar lelah, istirahat dulu.",
+      "narration": "Besoknya, dia mengulang langkah kecil itu. Saat benar-benar lelah, dia memilih istirahat.",
+      "show_label": false
+    },
+    {
+      "duration": 6,
+      "layout": "checklist",
+      "visual": "checklist",
+      "label": "RESEP MALAM INI",
+      "headline": "Coba yang realistis.",
+      "body": "Sesuaikan dengan keadaanmu hari ini.",
+      "items": [
+        "Jauhkan ponsel sebentar",
+        "Buka satu halaman",
+        "Coba satu soal"
+      ],
+      "narration": "Malam ini, coba jauhkan ponsel sebentar. Buka satu halaman. Lalu kerjakan satu soal yang kamu pilih.",
+      "show_label": false
+    },
+    {
+      "duration": 5,
+      "layout": "statement",
+      "visual": "shield",
+      "label": "SATU PELAJARAN HARI INI",
+      "headline": "SATU SOAL.",
+      "body": "MULAI DULU.",
+      "narration": "Kamu nggak harus menaklukkan semuanya malam ini. Coba satu soal dulu.",
+      "show_label": false,
+      "body_emphasis": true
+    }
+  ],
+  "post": {
+    "caption": "Cerita ilustrasi tentang Raka, yang mencoba tetap belajar meski sedang malas. Nggak harus menaklukkan semuanya malam ini. Pilih satu soal yang bisa kamu coba; kalau benar-benar lelah, beri diri waktu istirahat. Draft motion ini belum memiliki audio.",
+    "hashtags": [
+      "#Belajar",
+      "#CeritaEdukasi",
+      "#Pelajar",
+      "#Mahasiswa",
+      "#Gonanku"
+    ]
+  },
+  "sources": [
+    "Cerita ilustrasi orisinal Gonanku tentang Raka; naskah sama untuk seluruh gaya.",
+    "Arah visual: empat referensi unggahan pengguna, lihat docs/REFERENSI-VISUAL.md."
+  ],
+  "assumptions": [
+    "Raka adalah tokoh fiktif; seluruh cerita merupakan ilustrasi, bukan testimoni atau temuan riset.",
+    "Durasi visual tepat 45 detik. Durasi narasi belum diukur karena draft ini tanpa audio.",
+    "Penyesuaian durasi scene mungkin diperlukan saat rekaman atau TTS ditambahkan.",
+    "Tidak menggunakan audio dari video referensi dan tidak memanggil API berbayar."
+  ]
+}

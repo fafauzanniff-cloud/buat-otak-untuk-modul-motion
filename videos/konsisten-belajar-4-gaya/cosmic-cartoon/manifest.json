@@ -1,0 +1,15 @@
+{
+  "module": "Modul Gonanku",
+  "version": "2.0",
+  "preset": "cosmic-cartoon",
+  "title": "Lagi Malas? Satu Soal Dulu.",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1350,
+  "duration_seconds": 45.0,
+  "audio": false,
+  "subtitle_timing": "scene",
+  "subtitle_kind": "narration",
+  "sha256": "fb10c7c080b3032da7b127a9bd7b976a85c3ef7d390f8bd5f02956dc81a43fa6"
+}

@@ -1,0 +1,15 @@
+{
+  "module": "Modul Gonanku",
+  "version": "2.0",
+  "preset": "aurora-story",
+  "title": "Lagi Malas? Satu Soal Dulu.",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1350,
+  "duration_seconds": 45.0,
+  "audio": false,
+  "subtitle_timing": "scene",
+  "subtitle_kind": "narration",
+  "sha256": "a9ffb405435a184ff6b2330d3a7cf974acef89500d9849ee82e374d2de7b9f5a"
+}
